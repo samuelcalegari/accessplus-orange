@@ -2,7 +2,7 @@
 
 ## Current version ##
 
-alpha-0.2
+alpha-0.3
 
 ## Features ##
 - Launch confort+ orange toolbar from a moodle block
